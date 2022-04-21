@@ -1,0 +1,4 @@
+Marco|Romagnoli|192.168.2.36|59632
+Mario|Rossi|156.96.87.5|65102
+Me|Stesso (prova)|127.0.0.1|64000
+Michael|Jackson|172.12.25.6|59748

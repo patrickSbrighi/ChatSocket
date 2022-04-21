@@ -1,0 +1,14 @@
+﻿<Window x:Class="ChatSimulator.Storico"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChatSimulator"
+        mc:Ignorable="d"
+        Title="Storico" Height="461" Width="399">
+    <Grid>
+        <Label Content="Messaggi Inviati" HorizontalAlignment="Center" Height="86" Margin="0,10,0,0" VerticalAlignment="Top" Width="358" FontFamily="Gabriola" FontSize="48"/>
+        <ListBox x:Name="lstMess" HorizontalAlignment="Center" Height="288" Margin="0,116,0,0" VerticalAlignment="Top" Width="358" FontSize="14"/>
+
+    </Grid>
+</Window>
